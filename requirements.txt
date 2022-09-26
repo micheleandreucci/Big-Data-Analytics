@@ -1,0 +1,6 @@
+pandas
+numpy
+shap
+PyQt5
+joblib
+pyinstaller
