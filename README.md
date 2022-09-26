@@ -61,3 +61,7 @@ executable GUI for final exam
 
 - [plot.ui](uis/plot.ui):
 GUI for final exam by Qt Designer
+
+![home.png](home.png)
+![data.png](data.png)
+![plot.png](plot.png)
